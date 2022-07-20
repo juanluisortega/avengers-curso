@@ -1,3 +1,5 @@
 # Misiones
-* Investigar
-* 
+
+- Investigar
+-
+- Capturar
